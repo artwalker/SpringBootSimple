@@ -1,0 +1,8 @@
+server:
+  port: 8181
+  servlet:
+    context-path: /demo2
+
+person:
+  name: zhangsan
+  age: 18

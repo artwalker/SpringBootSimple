@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "org.example.controller.QucikStart2Controller",
+      "sourceType": "org.example.controller.QucikStart2Controller"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

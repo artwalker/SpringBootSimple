@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8a562e0-f0d3-4e89-9d3c-2f58005a6f90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/apache-maven-3.6.1/maven_repository" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="jdk-1.8.0_221" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1btqKyJXY4WjbgJj7NQGOja6RcD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.RedisTest.test">
+    <configuration name="DaoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stringbootquickstart3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.DaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stringbootquickstart3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.JpaTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stringbootquickstart3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RedisTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stringbootquickstart3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stringbootquickstart3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Stringbootquickstart3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisTest.test" />
+        <item itemvalue="JUnit.JpaTest.test" />
+        <item itemvalue="JUnit.DaoTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8a562e0-f0d3-4e89-9d3c-2f58005a6f90" name="Default Changelist" comment="" />
+      <created>1589461677288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589461677288</updated>
+      <workItem from="1589461693186" duration="3084000" />
+      <workItem from="1589465418129" duration="707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1589462071077">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589462071077" />
+    <state width="1398" height="394" key="GridCell.Tab.0.bottom" timestamp="1589466155037">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="394" key="GridCell.Tab.0.bottom/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589466155037" />
+    <state width="1398" height="394" key="GridCell.Tab.0.center" timestamp="1589466155036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="394" key="GridCell.Tab.0.center/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589466155036" />
+    <state width="1398" height="394" key="GridCell.Tab.0.left" timestamp="1589466155035">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="394" key="GridCell.Tab.0.left/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589466155035" />
+    <state width="1398" height="394" key="GridCell.Tab.0.right" timestamp="1589466155037">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="394" key="GridCell.Tab.0.right/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589466155037" />
+    <state width="1398" height="237" key="GridCell.Tab.1.bottom" timestamp="1589463178843">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.1.bottom/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589463178843" />
+    <state width="1398" height="237" key="GridCell.Tab.1.center" timestamp="1589463178841">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.1.center/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589463178841" />
+    <state width="1398" height="237" key="GridCell.Tab.1.left" timestamp="1589463178840">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.1.left/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589463178840" />
+    <state width="1398" height="237" key="GridCell.Tab.1.right" timestamp="1589463178842">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.1.right/1440.-538.1200.1920/0.0.1440.900@0.0.1440.900" timestamp="1589463178842" />
+  </component>
+</project>
